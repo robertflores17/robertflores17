@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robertflores17
-- 👀 I’m interested in learning Golang
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Golang nerds!
+- 👀 I’m interested in learning automating excel using python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate with the data nerds!
 - 📫 How to reach me? robertflores17@hotmail.com
 
 <!---
